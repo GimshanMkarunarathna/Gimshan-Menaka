@@ -1,0 +1,59 @@
+[
+  {
+    "id": "meat-track",
+    "type": "dev",
+    "title": "Meat Track (Flutter/Firebase)",
+    "img": "/images/projects/meat-track.png",
+    "tags": [
+      "Flutter",
+      "Firebase",
+      "Dart",
+      "Real-Time Data"
+    ]
+  },
+  {
+    "id": "fitnexa",
+    "type": "dev",
+    "title": "Fitnexa Gym App",
+    "img": "/images/projects/fitnexa.png",
+    "tags": [
+      "Flutter",
+      "Firebase",
+      "Dart",
+      "Real-Time Data"
+    ]
+  },
+  {
+    "id": "ui-fitnexa",
+    "type": "design",
+    "title": "Fitnexa Gym App",
+    "img": "/images/projects/ui-fitnexa.png",
+    "tags": [
+      "Figma",
+      "User Research",
+      "Prototype"
+    ]
+  },
+  {
+    "id": "ui-movie",
+    "type": "design",
+    "title": "Movie Ticket Booking",
+    "img": "/images/projects/ui-movie.png",
+    "tags": [
+      "Figma",
+      "User Research",
+      "Prototype"
+    ]
+  },
+  {
+    "id": "ui-vr",
+    "type": "design",
+    "title": "VR ZONE",
+    "img": "/images/projects/ui-vr.png",
+    "tags": [
+      "Figma",
+      "User Research",
+      "Prototype"
+    ]
+  }
+]
